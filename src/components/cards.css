@@ -18,11 +18,10 @@
 
 .card:hover {
   --_p: 75%;
-  transition: all 0.5s linear;
+  transition: all 0.4s linear;
 }
 
-.btn:hover {
+a:hover {
   color: white;
   font-weight: bold ;
-  background-color: #1c74a7e1;
 }
